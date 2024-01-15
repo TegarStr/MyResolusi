@@ -3,3 +3,4 @@ Rencana-belajar
 - laravel framework
 - database 
 - server
+- algoritma dan struktur data
