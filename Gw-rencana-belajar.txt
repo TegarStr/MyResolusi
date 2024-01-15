@@ -1,0 +1,5 @@
+Rencana-belajar
+- MVC PHP
+- laravel framework
+- database 
+- server
